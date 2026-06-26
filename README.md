@@ -24,15 +24,15 @@ When I'm not working with data, I enjoy reading and participating in book club, 
       
 ## 🔭 What I'm Currently Working On 
 
-**HDD Sales Trend:** Analyzing HDD sales data using Excel and mySQL - visualization with Tableau.
-  - Source Data: ChatGPT and Python programs utilized to build synthetic datasets that mirror realistic HDD data
+**HDD Sales Trend Project:** Analyzing HDD sales data using Excel and mySQL - visualization with Tableau. Source Data was created with ChatGPT and Python programs utilized to build synthetic datasets that mirror realistic HDD data.
 
 More to Come!
 
 ## 🌱 Currently Learning 
 
-- Seminar in Business Intelligence (ISYS 850): Techniques to make data-driven, strategic decisions while analyzing big data (Tools: Tableau and SAP)
-- Marketing for High Technology Products and Services (MKTG 885): Decision frameworks and strategies that reflect best-practices in high-technology marketing
+Seminar in Business Intelligence (ISYS 850): Techniques to make data-driven, strategic decisions while analyzing big data with Tableau and SAP
+
+Marketing for High Technology Products and Services (MKTG 885): Decision frameworks and strategies that reflect best-practices in high-technology marketing
 
 #### Data Analysis & Visualization
 <p>
