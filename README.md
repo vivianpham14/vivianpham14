@@ -13,13 +13,14 @@
 </p>
 
 ## 🚀 About Me 
-I'm currently a part-time Master's student at San Francisco State University to obtain my degree in Business Analytics! My goal with this degree is to continue strengthening my analytical mindset through conversations with other working professionals and data projects. I'm also looking forward to learning about new emerging technologies, gaining experience using new and prevalent analytics tools, and applying my skills to help businesses make data-driven decisions and solve real world problems!
+I'm currently a part-time Master's student at San Francisco State University to obtain my degree in Business Analytics. My goal with this degree is to continue strengthening my analytical mindset through collaboration with other working professionals and building data projects. I'm also looking forward to learning about new emerging technologies, gaining experience using new and prevalent analytics tools, and applying my skills to help businesses make data-driven decisions and solve real world problems!
 
-**Life Before School:** For three years after completing my undergraduate degree, I worked full-time as an audit and assurance senior associate at EY, specifically with clients in the technology (S&P 500 index) and healthcare sector. While working long hours over the course of three years, I found that the most rewarding part of the job was adding value to the client data by finding patterns and analyzing trends. I enjoyed the parts of my job that allowed me to further investigate the datasets to create a story and facilitate discussion with my teams on next steps. I want to continue following my interest in data analytics to grow as a professional, learn from my peers in other industries, continually expand on my skillset using relevant analysis tools, exercise my critical analysis through class discussion and projects, and contribute to the growth of businesses through data-driven insight. 
+## 📚 Background & Life Before Graduate School 🎓
+Before returning to school, I spent three years at EY as an Audit & Assurance Senior Associate, specifically working with clients in the technology (S&P 500 index) and healthcare sector. During my experience at the firm, I found that the most rewarding part of the job was adding value to the client data by finding patterns and analyzing trends. This experience further sparked my interest in data analytics. I enjoyed the parts of my job that allowed me to further investigate the datasets to create a story and facilitate discussion with my teams on next steps. Today, I'm on a journey to continue building on the foundation I have built by expanding on my technical skillset and applying my analytical thinking where I can! 
 
+## 🧩 Personal Interests 
 When I'm not working with data, I enjoy reading and participating in book club, scrapbooking and journaling with friends, and puzzle games (specifically suduko, tetris, and physical puzzles)! I love when a story is revealed through retelling and problems are solved!
 
-### [🏆 Check Out My Full Portfolio Website](https://vivianpham14.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
