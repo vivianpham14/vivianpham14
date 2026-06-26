@@ -1,9 +1,9 @@
-## Hi there, I'm Vivian 👋
+## Hi there, I'm Vivian 👋😊
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+and+Visualization;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Student+Data+Analyst;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,13 +13,12 @@
 </p>
 
 ## 🚀 About Me 
-I'm currently a part-time student at San Francisco State University to obtain my Master's degree in Business Analytics. My goal with this degree is to continue strengthening my analytical mindset through conversations with other working professionals and data projects. I'm also looking forward to learning about new emerging technologies, gaining experience using new and prevalent analytics tools, and applying my skills to help businesses make data-driven decisions and solve real world problems. 
+I'm currently a part-time Master's student at San Francisco State University to obtain my degree in Business Analytics! My goal with this degree is to continue strengthening my analytical mindset through conversations with other working professionals and data projects. I'm also looking forward to learning about new emerging technologies, gaining experience using new and prevalent analytics tools, and applying my skills to help businesses make data-driven decisions and solve real world problems!
 
-**Life Before School: **For three years after completing my undergraduate degree, I worked full-time as an audit and assurance senior associate at EY, specifically with clients in the technology (S&P 500 index) and healthcare sector. While working long hours over the course of three years, I found that the most rewarding part of the job was adding value to the client data by finding patterns and analyzing trends. I enjoyed the parts of my job that allowed me to further investigate the datasets to create a story and facilitate discussion with my teams on next steps. I want to continue following my interest in data analytics to grow as a professional, learn from my peers in other industries, continually expand on my skillset using relevant analysis tools, exercise my critical analysis through class discussion and projects, and contribute to the growth of businesses through data-driven insight. 
+**Life Before School:** For three years after completing my undergraduate degree, I worked full-time as an audit and assurance senior associate at EY, specifically with clients in the technology (S&P 500 index) and healthcare sector. While working long hours over the course of three years, I found that the most rewarding part of the job was adding value to the client data by finding patterns and analyzing trends. I enjoyed the parts of my job that allowed me to further investigate the datasets to create a story and facilitate discussion with my teams on next steps. I want to continue following my interest in data analytics to grow as a professional, learn from my peers in other industries, continually expand on my skillset using relevant analysis tools, exercise my critical analysis through class discussion and projects, and contribute to the growth of businesses through data-driven insight. 
 
 When I'm not working with data, I enjoy reading and participating in book club, scrapbooking and journaling with friends, and puzzle games (specifically suduko, tetris, and physical puzzles)! I love when a story is revealed through retelling and problems are solved!
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://vivianpham14.github.io/)
       
 ## 🔭 What I'm Currently Working On 
@@ -60,6 +59,5 @@ More to Come!
 <p>
   <img src="https://img.shields.io/badge/SAP-%230FAAFF">
   <img src="https://img.shields.io/badge/Oracle%20Netsuite-759C6C">
-
 </p>
 
