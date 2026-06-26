@@ -3,63 +3,63 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+&+Visualization;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/vivian-pham-53392a1b3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:vivianvipham01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm currently a part-time student at San Francisco State University studying for my Master's degree in Business Analytics. With this degree, my goal is to continue fostering my analytical mindset and problem solving skills  develop the skills necessary to help  of business growth, while also fostering my analytical mindset.
+I'm currently a part-time student at San Francisco State University to obtain my Master's degree in Business Analytics. My goal with this degree is to continue strengthening my analytical mindset through conversations with other working professionals and data projects. I'm also looking forward to learning about new emerging technologies, gaining experience using new and prevalent analytics tools, and applying my skills to help businesses make data-driven decisions and solve real world problems. 
 
-Prior to enrolling in the Master's program, I worked full-time at EY as an audit and assurance senior. While working long hours over the course of three years, I found that the most rewarding part of the job was adding value to the numbers presented to create insight. I enjoyed the parts of my job that allowed me to further investigate the datasets to better understand what is happening, contribute to the discussion with the team, and create actionable insights. To continue following my interest in data analytics, I made the decision to departed from the firm in pursuit of the Master's degree in Business Analytics at San Francisco State University 
+**Life Before School: **For three years after completing my undergraduate degree, I worked full-time as an audit and assurance senior associate at EY, specifically with clients in the technology (S&P 500 index) and healthcare sector. While working long hours over the course of three years, I found that the most rewarding part of the job was adding value to the client data by finding patterns and analyzing trends. I enjoyed the parts of my job that allowed me to further investigate the datasets to create a story and facilitate discussion with my teams on next steps. I want to continue following my interest in data analytics to grow as a professional, learn from my peers in other industries, continually expand on my skillset using relevant analysis tools, exercise my critical analysis through class discussion and projects, and contribute to the growth of businesses through data-driven insight. 
 
-data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy reading and participating in book club, scrapbooking and journaling with friends, and puzzle games (specifically suduko, tetris, and physical puzzles)! I love when a story is revealed through retelling and problems are solved!
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://vivianpham14.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+**HDD Sales Trend:** Analyzing HDD sales data using Excel and mySQL - visualization with Tableau.
+  - Source Data: ChatGPT and Python programs utilized to build synthetic datasets that mirror realistic HDD data
+
+More to Come!
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- Seminar in Business Intelligence (ISYS 850): Techniques to make data-driven, strategic decisions while analyzing big data (Tools: Tableau and SAP)
+- Marketing for High Technology Products and Services (MKTG 885): Decision frameworks and strategies that reflect best-practices in high-technology marketing
 
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-blue" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Beginner-Green" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Advanced-9400d3" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-blue" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Google%20Sheets-Advanced-9400d3">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Beginner-Green" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/R-Beginner-Green" alt="R Skill Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Suite Tools
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-Advanced-9400d3" >
+  <img src="https://img.shields.io/badge/Google%20Suite-Advanced-9400d3" >
 </p>
+
+#### ERP Systems
+<p>
+  <img src="https://img.shields.io/badge/SAP-%230FAAFF">
+  <img src="https://img.shields.io/badge/Oracle%20Netsuite-759C6C">
+
+</p>
+
